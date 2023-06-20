@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
-i * main - tell us about input numbers
+ * main - tell us about input numbers
  *
  * Return: (0)
  *
