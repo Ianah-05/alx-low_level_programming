@@ -10,6 +10,7 @@
  */
 int main(void)
 {
+
 	listint_t *head;
 
 	head = NULL;
